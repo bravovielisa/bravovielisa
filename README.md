@@ -1,6 +1,6 @@
 ![](https://github.com/bravovielisa/bravovielisa/blob/main/Githubelisa.gif)
 
-# My name is Elisa. A few facts about me:  
+# My name is Elisa and these are some facts about me:  
 
 
 
