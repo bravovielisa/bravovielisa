@@ -12,4 +12,7 @@
 ⚜️ *Experience as a volunteer managing teams.*  
 
 
-**Essentially, my profile combines business understanding, statistics, predictive modelling (machine learning), mathematics and technology.**
+**Essentially, my profile combines business understanding, statistics, predictive modelling (machine learning), mathematics and technology.**  
+
+
+📭 *Contact me:* <span style="color:blue">www.linkedin.com/in/elisa-bravo</span>
