@@ -1,8 +1,8 @@
 # *Welcome!*
 
-![](https://github.com/bravovielisa/bravielisa/blob/main/Githubelisa.gif)
+![](https://github.com/bravovielisa/bravovielisa/blob/main/Githubelisa.gif)
 
-Hi! My name is Elisa. A few facts about me:  
+My name is Elisa. A few facts about me:  
 
 
 
@@ -14,4 +14,4 @@ Hi! My name is Elisa. A few facts about me:
 ⚜️ Experience as a volunteer managing teams.  
 
 
-Essentially, my profile combines business understanding, statistics, predictive modelling, mathematics and technology.
+Essentially, my profile combines business understanding, statistics, predictive modelling (machine learning), mathematics and technology.
