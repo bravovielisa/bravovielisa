@@ -1,4 +1,4 @@
-![](https://github.com/bravovielisa/bravovielisa/blob/main/GitHub.gif)
+![]()
 
 # My name is Elisa and these are some facts about me:  
 
