@@ -4,7 +4,7 @@
 
 
 
-📈 *I'm economist with technological skills. More than one year experienced professional, passionate about data analysis, processing and visualization.*  
+📈 *I'm economist with technological skills. More than one year experienced professional, passionate about data science, processing and visualization.*  
 🏭 *My critical-analytical spirit and my interest in knowing and understanding the profile of different companies led me to venture into the world of auditing. During that period I developed my technical and functional business knowledge.*  
 💻 *I decided to change my career path to data analyst/business analyst because it is a field that interests me the most and that I really enjoy.*  
 📊 *More than one year of experience as a data analyst applying skills such as Excel (pivot tables, Power Pivot, VBA), SQL queries, Tableau, Jira.*  
